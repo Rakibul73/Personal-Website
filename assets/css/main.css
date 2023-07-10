@@ -185,6 +185,11 @@ html {
 }
 
 
+#header .tt .tv .pc .mouse .key .robot {
+    list-style-type: none;
+} 
+
+
 
 body,
 input,
