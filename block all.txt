@@ -1,0 +1,143 @@
+2606:4700:3037::ac43:836d
+2606:4700:3031::6815:a6a
+172.67.131.109
+194.58.31.81
+2606:4700:20::ac43:44fe
+2606:4700:20::681a:7a4
+2606:4700:20::681a:6a4
+172.67.68.254
+2404:6800:4002:825::2003
+142.250.194.227
+2404:6800:4002:817::2008
+142.250.194.8
+2606:4700:3037::ac43:836d
+2606:4700:3031::6815:a6a
+172.67.131.109
+2404:6800:4002:819::200a
+142.250.193.10
+2606:4700:20::681a:6a4
+2606:4700:20::ac43:44fe
+2606:4700:20::681a:7a4
+104.26.7.164
+
+
+
+
+
+=================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mathjax.codeforces.org
+pubsub.codeforces.com
+codeforces.com
+fonts.gstatic.com
+ssl.google-analytics.com
+userpic.codeforces.org
+fonts.googleapis.com
+
+www.mathjax.codeforces.org
+www.pubsub.codeforces.com
+www.codeforces.com
+www.fonts.gstatic.com
+www.ssl.google-analytics.com
+www.userpic.codeforces.org
+www.fonts.googleapis.com
+
+
+
+ping mathjax.codeforces.org
+ping pubsub.codeforces.com
+ping codeforces.com
+ping fonts.gstatic.com
+ping ssl.google-analytics.com
+ping userpic.codeforces.org
+ping fonts.googleapis.com
+ping www.mathjax.codeforces.org
+ping www.pubsub.codeforces.com
+ping www.codeforces.com
+ping www.fonts.gstatic.com
+ping www.ssl.google-analytics.com
+ping www.userpic.codeforces.org
+ping www.fonts.googleapis.com
+nslookup mathjax.codeforces.org
+nslookup pubsub.codeforces.com
+nslookup codeforces.com
+nslookup fonts.gstatic.com
+nslookup ssl.google-analytics.com
+nslookup userpic.codeforces.org
+nslookup fonts.googleapis.com
+nslookup www.mathjax.codeforces.org
+nslookup www.pubsub.codeforces.com
+nslookup www.codeforces.com
+nslookup www.fonts.gstatic.com
+nslookup www.ssl.google-analytics.com
+nslookup www.userpic.codeforces.org
+nslookup www.fonts.googleapis.com
+
+
+
+
+
+
+Name:    mathjax.codeforces.org
+Addresses:  2606:4700:3037::ac43:836d
+          2606:4700:3031::6815:a6a
+          172.67.131.109
+
+
+Name:    pubsub.codeforces.com
+Address:  194.58.31.81
+
+
+Name:    codeforces.com
+Addresses:  2606:4700:20::ac43:44fe
+          2606:4700:20::681a:7a4
+          2606:4700:20::681a:6a4
+          172.67.68.254
+
+
+Name:    fonts.gstatic.com
+Addresses:  2404:6800:4002:825::2003
+          142.250.194.227
+
+
+Name:    ssl.google-analytics.com
+Addresses:  2404:6800:4002:817::2008
+          142.250.194.8
+
+
+Name:    userpic.codeforces.org
+Addresses:  2606:4700:3037::ac43:836d
+          2606:4700:3031::6815:a6a
+          172.67.131.109
+
+
+Name:    fonts.googleapis.com
+Addresses:  2404:6800:4002:819::200a
+          142.250.193.10
+
+Name:    www.codeforces.com
+Addresses:  2606:4700:20::681a:6a4
+          2606:4700:20::ac43:44fe
+          2606:4700:20::681a:7a4
+          104.26.7.164
+
+
+UnKnown can't find www.fonts.gstatic.com: Non-existent domain
+UnKnown can't find www.mathjax.codeforces.org: Non-existent domain
+UnKnown can't find www.pubsub.codeforces.com: Non-existent domain
+UnKnown can't find www.ssl.google-analytics.com: Non-existent domain
+UnKnown can't find www.userpic.codeforces.org: Non-existent domain
+UnKnown can't find www.fonts.googleapis.com: Non-existent domain
